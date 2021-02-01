@@ -6,6 +6,8 @@ The format is based on [Keep a Changelog]
 
 ## [Unreleased]
 
+- Reduce sensitivity of high response time alert
+
 ## [Release 088] - 2021-01-27
 
 - Add an additional rejection reason to the claim rejection email (Zendesk
